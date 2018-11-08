@@ -16,7 +16,7 @@ public class K extends J
     public K()
     {
         // initialise instance variables
-        x = 0;
+        x = 1;
     }
 
     /**
